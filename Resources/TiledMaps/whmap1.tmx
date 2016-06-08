@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="90" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="fixed-ortho-test2" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="fixed-ortho-test2.png" width="640" height="400"/>
+  <tile id="19">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="块层 1" width="90" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztl00OgjAQhcsV3KlbWRh14UKXxKVLTdA7eDs9gT8nc0hKJOPQljqltfRLXmBoMzO8NJQKkeBm5LuBgZB87ofkcz/MfDcwELa+G3BEhuSbve8GHBCCr5jYfA7R44qYfA7V44pYv8+hUO8PMfxvhLSO8b6bS/27z749bvMVxxznlDFoApoy5OpC8/3mhFzVNPEVxxw+L0BL0ErRm+pqg691bOorjrn2wYIpTxtX0E3eu/L4CXqhZ7brF8e69bzRjK/l9aCZ18bRQFWNO+gh+DzeiU/vNXWNJra+4pjaB/GZNdOM6aSia66cTtMZ0565fKa+Gzkh1ZhOKrjzmWJagyumzoPJ5+95v8YXQlTdUsrGl1Ihm3w2OoNOUiZ1uX2m9AaeqTRp
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <properties>
+   <property name="obj_cnt" value="32"/>
+   <property name="title" value="Stage 1-1"/>
+  </properties>
+  <object name="spawnPoint" x="32" y="476" width="32" height="32"/>
+  <object name="obj1" type="block" x="3" y="512" width="155" height="126"/>
+  <object name="obj2" type="block" x="416" y="421" width="32" height="90"/>
+  <object name="obj3" type="block" x="225" y="512" width="415" height="126"/>
+  <object name="obj4" type="death_point" x="159" y="622" width="65" height="17"/>
+  <object name="obj5" type="block" x="639" y="414" width="33" height="33"/>
+  <object name="obj6" type="block" x="701" y="414" width="34" height="34"/>
+  <object name="obj7" type="block" x="766" y="418" width="33" height="30"/>
+  <object name="obj8" type="block" x="829" y="416" width="37" height="33"/>
+  <object name="obj9" type="block" x="1312" y="416" width="31" height="31"/>
+  <object name="obj10" type="home" x="2686" y="585" width="192" height="55"/>
+  <object name="obj11" type="death_point" x="637" y="623" width="226" height="14"/>
+  <object name="obj12" type="block" x="864" y="512" width="415" height="126"/>
+  <object name="obj17" type="block" x="1280" y="609" width="418" height="29"/>
+  <object name="obj15" type="block" x="1343" y="383" width="34" height="34"/>
+  <object name="obj13" type="spring" x="1280" y="449" width="30" height="31"/>
+  <object name="obj14" type="block" x="1248" y="479" width="31" height="33"/>
+  <object name="obj16" type="block" x="1378" y="352" width="31" height="29"/>
+  <object name="obj18" type="death_point" x="1440" y="385" width="159" height="30"/>
+  <object name="obj19" type="block" x="1473" y="255" width="32" height="32"/>
+  <object name="obj21" type="block" x="1535" y="192" width="32" height="31"/>
+  <object name="obj22" type="block" x="1407" y="323" width="31" height="28"/>
+  <object name="obj23" type="block" x="1568" y="158" width="137" height="33"/>
+  <object name="obj24" type="block" x="1697" y="629" width="126" height="16"/>
+  <object name="obj20" type="block" x="1505" y="224" width="32" height="33"/>
+  <object name="obj25" type="block" x="1821" y="510" width="265" height="130"/>
+  <object name="obj26" type="home" x="-1" y="259" width="36" height="33"/>
+  <object name="obj27" type="block" x="2144" y="449" width="62" height="156"/>
+  <object name="obj28" type="block" x="2274" y="385" width="60" height="219"/>
+  <object name="obj29" type="block" x="2399" y="351" width="63" height="254"/>
+  <object name="obj30" type="block" x="2528" y="319" width="60" height="281"/>
+  <object name="obj31" type="block" x="2653" y="290" width="66" height="305"/>
+  <object name="obj32" type="block" x="2075" y="576" width="36" height="67"/>
+ </objectgroup>
+</map>

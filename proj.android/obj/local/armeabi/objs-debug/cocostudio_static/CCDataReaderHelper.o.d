@@ -1,0 +1,359 @@
+obj/local/armeabi/objs-debug/cocostudio_static/CCDataReaderHelper.o: \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/CCDataReaderHelper.cpp \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCFileUtils.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformMacros.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccConfig.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformConfig.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformDefine.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/log.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccTypes.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCGeometry.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/math.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccMacros.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCConsole.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCRef.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCStdC.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCStdC-android.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdlib.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccRandom.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCMath.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCMathBase.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.inl \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.inl \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.inl \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.inl \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Quaternion.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Quaternion.inl \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCGL.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCGL-android.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCValue.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCData.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCDirector.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCVector.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCScene.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCNode.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCProtocols.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCTexture2D.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCScriptSupport.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCCommon.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCTouch.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEventTouch.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEvent.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEventKeyboard.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCAffineTransform.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCGLView.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCScheduler.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/uthash.h \
+ d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/inttypes.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccUtils.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./../external/tinyxml2/tinyxml2.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/climits \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDataReaderHelper.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDefine.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDatas.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCMap.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCTweenFunction.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmature.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBone.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTween.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCProcessBase.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDecorativeDisplay.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayFactory.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCColliderDetector.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayManager.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBatchNode.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureAnimation.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSpriteFrameCacheHelper.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDataManager.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/document.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/reader.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/rapidjson.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/pow10.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/stack.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/csetjmp \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/strfunc.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h \
+ d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTransformHelp.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCUtilMath.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCSprite.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCDrawNode.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCCustomCommand.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCRenderCommand.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCTextureAtlas.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCQuadCommand.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCGLProgramState.h \
+ D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoLoader.h
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCFileUtils.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformMacros.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccConfig.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformConfig.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCPlatformDefine.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/android/log.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccTypes.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCGeometry.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/math.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccMacros.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCConsole.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/sys/select.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCRef.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCStdC.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCStdC-android.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/stdlib.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/alloca.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/strings.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/memory.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccRandom.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCMath.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCMathBase.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.inl:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec2.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.inl:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec3.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.inl:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.inl:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Vec4.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Mat4.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Quaternion.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/Quaternion.inl:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCGL.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/android/CCGL-android.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2platform.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/GLES2/gl2ext.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCValue.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCData.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCDirector.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCVector.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCScene.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCNode.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCProtocols.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCTexture2D.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCScriptSupport.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCCommon.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCTouch.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEventTouch.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEvent.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCEventKeyboard.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./math/CCAffineTransform.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./platform/CCGLView.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCScheduler.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/uthash.h:
+
+d:/dev/android-ndk-r10d/platforms/android-19/arch-arm/usr/include/inttypes.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/ccUtils.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./../external/tinyxml2/tinyxml2.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/climits:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdio:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstring:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cstdarg:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDataReaderHelper.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDefine.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDatas.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./base/CCMap.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCTweenFunction.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocosStudioExport.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmature.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBone.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTween.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCProcessBase.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDecorativeDisplay.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayFactory.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCColliderDetector.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCDisplayManager.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCBatchNode.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureAnimation.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCSpriteFrameCacheHelper.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCArmatureDataManager.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/document.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/reader.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/rapidjson.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/pow10.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/stack.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/csetjmp:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/external/flatbuffers/../json/internal/strfunc.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/DictionaryHelper.h:
+
+d:/dev/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCTransformHelp.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CCUtilMath.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCSprite.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./2d/CCDrawNode.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCCustomCommand.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCRenderCommand.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCTextureAtlas.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCQuadCommand.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/./renderer/CCGLProgramState.h:
+
+D:\_MY\COCOS_PRJ\WayHome\proj.android\../cocos2d/cocos/editor-support/cocostudio/../cocostudio/CocoLoader.h:

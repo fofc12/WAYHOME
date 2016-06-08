@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="fixed-ortho-test2" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="fixed-ortho-test2.png" width="640" height="400"/>
+  <terraintypes>
+   <terrain name="新地形" tile="-1"/>
+  </terraintypes>
+  <tile id="19">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="93" terrain=",,,0"/>
+  <tile id="94" terrain=",0,,"/>
+  <tile id="109" terrain=",,,0"/>
+  <tile id="110" terrain="0,0,0,0"/>
+  <tile id="111" terrain="0,,0,0"/>
+  <tile id="127" terrain=",0,,"/>
+  <tile id="128" terrain="0,,,0"/>
+  <tile id="129" terrain="0,0,0,"/>
+ </tileset>
+ <layer name="块层 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAe9AJxHwnqqQkG0m5sgF7uSaCDHehAHgkjAy0i9StAMSkgAY1vSqJ+dDAbiOdQaAYyMIRiEEggQU8mml5GKmPVEYYBfU4Qww==
+  </data>
+ </layer>
+ <layer name="collidable" width="20" height="15" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAbUhbJ7aKKYIAwBHgAxT
+  </data>
+ </layer>
+ <objectgroup color="#9ea0a4" name="objects">
+  <properties>
+   <property name="obj_cnt" value="4"/>
+   <property name="title" value="Select stage..."/>
+  </properties>
+  <object name="spawnPoint" x="31.667" y="302" width="31" height="28"/>
+  <object name="obj1" type="block" x="0" y="354" width="641" height="128"/>
+  <object name="obj3" type="stage3" x="412" y="203" width="98" height="32"/>
+  <object name="obj2" type="stage2" x="289" y="227" width="61" height="33.6667"/>
+  <object x="686" y="453"/>
+  <object name="obj4" type="stage1" x="192" y="258" width="32" height="32"/>
+ </objectgroup>
+</map>

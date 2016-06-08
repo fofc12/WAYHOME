@@ -1,0 +1,41 @@
+﻿生成启动时间为 2015/6/15 星期一 下午 2:50:14。
+     1>项目“D:\_MY\COCOS_PRJ\WayHome\proj.win32\WayHome.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\cocos\audio\include /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\external /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\external\chipmunk\include\chipmunk /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\extensions /I..\Classes /I.. /I"D:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\cocos\editor-support" /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\cocos /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\cocos\platform /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\cocos\platform\desktop /ID:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\external\glfw3\include\win32 /I"D:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\external\win32-specific\gles\include\OGLES" /ZI /nologo /W3 /WX- /MP /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _VARIADIC_MAX=10 /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AppDelegate.cpp ..\Classes\ControlLayer.cpp ..\Classes\GameLayer.cpp ..\Classes\HelloWorldScene.cpp ..\Classes\MainLayer.cpp ..\Classes\MapLayer.cpp
+         AppDelegate.cpp
+         ControlLayer.cpp
+         GameLayer.cpp
+         HelloWorldScene.cpp
+         MainLayer.cpp
+         MapLayer.cpp
+     1>d:\_my\cocos_prj\wayhome\cocos2d\cocos\network\httprequest.h(185): warning C4996: 'cocos2d::network::HttpRequest::setResponseCallback': 被声明为已否决 (..\Classes\MainLayer.cpp)
+                 d:\_my\cocos_prj\wayhome\cocos2d\cocos\network\httprequest.h(188) : 参见“cocos2d::network::HttpRequest::setResponseCallback”的声明
+     1>d:\_my\cocos_prj\wayhome\classes\mainlayer.cpp(100): warning C4996: 'cocos2d::network::HttpRequest::setResponseCallback': 被声明为已否决
+                 d:\_my\cocos_prj\wayhome\cocos2d\cocos\network\httprequest.h(188) : 参见“cocos2d::network::HttpRequest::setResponseCallback”的声明
+       PreLinkEvent:
+         if not exist "D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\" mkdir "D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\_MY\COCOS_PRJ\WayHome\cocos2d\cocos\2d\..\..\external\websockets\prebuilt\win32\*.*" "D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\WayHome.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\ /LIBPATH:D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\ opengl32.lib glew32.lib libzlib.lib libpng.lib libjpeg.lib libtiff.lib libwebp.lib libiconv.lib glfw3.lib freetype250.lib winmm.lib ws2_32.lib libchipmunk.lib libbox2d.lib libSpine.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\WayHome.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\WayHome.lib" /MACHINE:X86 /SAFESEH Debug.win32\game.res
+         Debug.win32\AppDelegate.obj
+         Debug.win32\Character.obj
+         Debug.win32\ControlLayer.obj
+         Debug.win32\DisplayLayer.obj
+         Debug.win32\GameLayer.obj
+         Debug.win32\HelloWorldScene.obj
+         Debug.win32\MainLayer.obj
+         Debug.win32\MapLayer.obj
+         Debug.win32\WHFunc.obj
+         Debug.win32\WHPublic.obj
+         Debug.win32\main.obj
+         D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\libcocos2d.lib
+         D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\libSpine.lib
+         D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\libbox2d.lib
+         WayHome.vcxproj -> D:\_MY\COCOS_PRJ\WayHome\proj.win32\Debug.win32\WayHome.exe
+     1>已完成生成项目“D:\_MY\COCOS_PRJ\WayHome\proj.win32\WayHome.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:41.62
