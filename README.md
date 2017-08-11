@@ -6,7 +6,7 @@ A mobile game like Super Mario by cocos2dx v3
 http://v.youku.com/v_show/id_XMTYxNDAyNzk5Mg==.html
 
 # Compile requirement 编译环境要求
-IDE=VS2013,引擎=3.3
+IDE=VS2013,cocos2d-x引擎=3.3
 
 
 
